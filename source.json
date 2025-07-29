@@ -1,5 +1,5 @@
 {
-	"name": "Custom",
+	"name": "NSFW Games Collection",
 	"downloads": [
 		{
 			"title": "Summer Clover",
@@ -16,6 +16,33 @@
 			],
 			"uploadDate": "2024-11-08T19:37:00.000Z",
 			"fileSize": "376.5 MB"
+		},
+		{
+			"title": "Subverse",
+			"uris": [
+				"magnet:?xt=urn:btih:5A3D1F2E4C7B8D9A0E1F2A3B4C5D6E7F8A9B0C1",
+				"https://example-nsfw-games.com/download/subverse/v1.5.2"
+			],
+			"uploadDate": "2024-03-15T12:30:00.000Z",
+			"fileSize": "25.7 GB"
+		},
+		{
+			"title": "Honey Select 2",
+			"uris": [
+				"magnet:?xt=urn:btih:9E8D7C6B5A4F3E2D1C0B9A8D7E6F5A4B3C2D1E0",
+				"https://example-nsfw-games.com/download/honey-select-2/ultimate-edition"
+			],
+			"uploadDate": "2024-01-10T08:45:00.000Z",
+			"fileSize": "12.3 GB"
+		},
+		{
+			"title": "Koikatsu Party",
+			"uris": [
+				"magnet:?xt=urn:btih:3F4E5D6C7B8A9F0E1D2C3B4A5F6E7D8C9B0A1",
+				"https://example-nsfw-games.com/download/koikatsu-party/steam-rip"
+			],
+			"uploadDate": "2023-11-20T14:15:00.000Z",
+			"fileSize": "18.5 GB"
 		}
 	]
 }
