@@ -1,95 +1,949 @@
 {
-	"name": "Games Collection",
-	"downloads": [
-		{
-			"title": "Summer Clover",
-			"uris": ["magnet:?xt=urn:btih:f3a287301a6c6e40d6e3d5f22c83978576922824"],
-			"uploadDate": "2024-06-28T00:00:00.000Z",
-			"fileSize": "4.9 GB"
-		},
-		{
-			"title": "Magicraft",
-			"uris": ["magnet:?xt=urn:btih:CC10A508CAE9DEE0EE01415191CB9131998EFB11"],
-			"uploadDate": "2024-11-08T19:37:00.000Z",
-			"fileSize": "376.5 MB"
-		},
-		{
-			"title": "No Mercy",
-			"uris": ["magnet:?xt=urn:btih:b37d72522cacb0308f599bed7cdee09b0457777a"],
-			"uploadDate": "2024-06-28T00:00:00.000Z",
-			"fileSize": "14.56 GB"
-		},
-		{
-			"title": "Operation Lovecraft: Fallen Doll",
-			"uris": ["magnet:?xt=urn:btih:9413c0280bdbe3f193e3e91d34c9cfa40ef0453c"],
-			"uploadDate": "2024-06-28T00:00:00.000Z",
-			"fileSize": "9.91 GB"
-		},
-		{
-			"title": "Lust Theory",
-			"uris": ["magnet:?xt=urn:btih:8bb37558e6ed0299a147131ce01095a64090cb05"],
-			"uploadDate": "2024-06-28T00:00:00.000Z",
-			"fileSize": "9.91 GB"
-		},
-		{
-			"title": "Zoey: My Hentai Sex Doll",
-			"uris": ["magnet:?xt=urn:btih:72e8ce65f9d2cf8a7f8301ea76e495ab32c4859d"],
-			"uploadDate": "2024-06-28T00:00:00.000Z",
-			"fileSize": "9.91 GB"
-		},
-		{
-			"title": "Ghost Marriage Matchmaking",
-			"uris": ["magnet:?xt=urn:btih:b44ca9334281c129281e67cb248d36a4a15d3c18"],
-			"uploadDate": "2024-06-28T00:00:00.000Z",
-			"fileSize": "1.15 GB"
-		},
-		{
-			"title": "FreshWomen",
-			"uris": ["magnet:?xt=urn:btih:9284c82e2b6fda4374507df5aba1a9c36dfb734c"],
-			"uploadDate": "2024-06-28T00:00:00.000Z",
-			"fileSize": "14.43 GB"
-		},
-		{
-			"title": "Spooky Milk Life",
-			"uris": ["magnet:?xt=urn:btih:14ea31cb075a9b8ecc2e06143960ea84f4b17c90"],
-			"uploadDate": "2024-06-28T00:00:00.000Z",
-			"fileSize": "869.9 Mb"
-		},
-		{
-			"title": "Being A DIK",
-			"uris": ["magnet:?xt=urn:btih:7143b5f6d01d028d5d5847486835c24d4e2eb94f"],
-			"uploadDate": "2024-06-28T00:00:00.000Z",
-			"fileSize": "74.29 GB"
-		},
-		{
-			"title": "College Bound",
-			"uris": ["magnet:?xt=urn:btih:84ea661a642e94831f149563da857855ccbcd739"],
-			"uploadDate": "2024-06-28T00:00:00.000Z",
-			"fileSize": "19.08 GB"
-		},
-		{
-			"title": "Treasure of Nadia",
-			"uris": ["magnet:?xt=urn:btih:19e10a2c3779ab5dffec2933e5193d98eb5be733"],
-			"uploadDate": "2024-06-28T00:00:00.000Z",
-			"fileSize": "23.72 GB"
-		},
-		{
-			"title": "Hentai Houseparty: Gyaru Gangbang",
-			"uris": ["magnet:?xt=urn:btih:52b7b8edfb502027f2e807aad0e016e1eb88e509"],
-			"uploadDate": "2024-06-28T00:00:00.000Z",
-			"fileSize": "1.05 GB"
-		},
-		{
-			"title": "Tame It!",
-			"uris": ["magnet:?xt=urn:btih:17679c17d52e978e6530af71274204d87f16e12a"],
-			"uploadDate": "2024-06-28T00:00:00.000Z",
-			"fileSize": "725.6 Mb"
-		},
-		{
-			"title": "Man of the House",
-			"uris": ["magnet:?xt=urn:btih:0753bd9eaf747d51551653ebbfb7ec41cad06612"],
-			"uploadDate": "2024-06-28T00:00:00.000Z",
-			"fileSize": "7.69 GB"
-		}
-	]
+    "name": "Games Collection",
+    "downloads": [
+        {
+            "title": "Summer Clover",
+            "uris": [
+                "magnet:?xt=urn:btih:f3a287301a6c6e40d6e3d5f22c83978576922824"
+            ],
+            "uploadDate": "2024-06-28T00:00:00.000Z",
+            "fileSize": "4.9 GB"
+        },
+        {
+            "title": "Magicraft",
+            "uris": [
+                "magnet:?xt=urn:btih:CC10A508CAE9DEE0EE01415191CB9131998EFB11"
+            ],
+            "uploadDate": "2024-11-08T19:37:00.000Z",
+            "fileSize": "376.5 MB"
+        },
+        {
+            "title": "No Mercy",
+            "uris": [
+                "magnet:?xt=urn:btih:b37d72522cacb0308f599bed7cdee09b0457777a"
+            ],
+            "uploadDate": "2024-06-28T00:00:00.000Z",
+            "fileSize": "14.56 GB"
+        },
+        {
+            "title": "Operation Lovecraft: Fallen Doll",
+            "uris": [
+                "magnet:?xt=urn:btih:9413c0280bdbe3f193e3e91d34c9cfa40ef0453c"
+            ],
+            "uploadDate": "2024-06-28T00:00:00.000Z",
+            "fileSize": "9.91 GB"
+        },
+        {
+            "title": "Lust Theory",
+            "uris": [
+                "magnet:?xt=urn:btih:8bb37558e6ed0299a147131ce01095a64090cb05"
+            ],
+            "uploadDate": "2024-06-28T00:00:00.000Z",
+            "fileSize": "9.91 GB"
+        },
+        {
+            "title": "Zoey: My Hentai Sex Doll",
+            "uris": [
+                "magnet:?xt=urn:btih:72e8ce65f9d2cf8a7f8301ea76e495ab32c4859d"
+            ],
+            "uploadDate": "2024-06-28T00:00:00.000Z",
+            "fileSize": "9.91 GB"
+        },
+        {
+            "title": "Ghost Marriage Matchmaking",
+            "uris": [
+                "magnet:?xt=urn:btih:b44ca9334281c129281e67cb248d36a4a15d3c18"
+            ],
+            "uploadDate": "2024-06-28T00:00:00.000Z",
+            "fileSize": "1.15 GB"
+        },
+        {
+            "title": "FreshWomen",
+            "uris": [
+                "magnet:?xt=urn:btih:9284c82e2b6fda4374507df5aba1a9c36dfb734c"
+            ],
+            "uploadDate": "2024-06-28T00:00:00.000Z",
+            "fileSize": "14.43 GB"
+        },
+        {
+            "title": "Spooky Milk Life",
+            "uris": [
+                "magnet:?xt=urn:btih:14ea31cb075a9b8ecc2e06143960ea84f4b17c90"
+            ],
+            "uploadDate": "2024-06-28T00:00:00.000Z",
+            "fileSize": "869.9 Mb"
+        },
+        {
+            "title": "Being A DIK",
+            "uris": [
+                "magnet:?xt=urn:btih:7143b5f6d01d028d5d5847486835c24d4e2eb94f"
+            ],
+            "uploadDate": "2024-06-28T00:00:00.000Z",
+            "fileSize": "74.29 GB"
+        },
+        {
+            "title": "College Bound",
+            "uris": [
+                "magnet:?xt=urn:btih:84ea661a642e94831f149563da857855ccbcd739"
+            ],
+            "uploadDate": "2024-06-28T00:00:00.000Z",
+            "fileSize": "19.08 GB"
+        },
+        {
+            "title": "Treasure of Nadia",
+            "uris": [
+                "magnet:?xt=urn:btih:19e10a2c3779ab5dffec2933e5193d98eb5be733"
+            ],
+            "uploadDate": "2024-06-28T00:00:00.000Z",
+            "fileSize": "23.72 GB"
+        },
+        {
+            "title": "Hentai Houseparty: Gyaru Gangbang",
+            "uris": [
+                "magnet:?xt=urn:btih:52b7b8edfb502027f2e807aad0e016e1eb88e509"
+            ],
+            "uploadDate": "2024-06-28T00:00:00.000Z",
+            "fileSize": "1.05 GB"
+        },
+        {
+            "title": "Tame It!",
+            "uris": [
+                "magnet:?xt=urn:btih:17679c17d52e978e6530af71274204d87f16e12a"
+            ],
+            "uploadDate": "2024-06-28T00:00:00.000Z",
+            "fileSize": "725.6 Mb"
+        },
+        {
+            "title": "Man of the House",
+            "uris": [
+                "magnet:?xt=urn:btih:0753bd9eaf747d51551653ebbfb7ec41cad06612"
+            ],
+            "uploadDate": "2024-06-28T00:00:00.000Z",
+            "fileSize": "7.69 GB"
+        },
+        {
+            "title": "Passions Uncharted",
+            "uris": [
+                "magnet:?xt=urn:btih:be304c95b4d9ebdd9988c24f5f84976c03152eca"
+            ],
+            "uploadDate": "2025-06-10T00:00:00.000Z",
+            "fileSize": "407 MB"
+        },
+        {
+            "title": "Dreamer Life",
+            "uris": [
+                "magnet:?xt=urn:btih:c87d0c8aa9da551f6cbb80e1ccca12e1682c0dea"
+            ],
+            "uploadDate": "2025-06-10T00:00:00.000Z",
+            "fileSize": "5.42 GB"
+        },
+        {
+            "title": "Christa and Tonyo",
+            "uris": [
+                "magnet:?xt=urn:btih:c32aec7b6873eba6baa53c4a5dc7d5bb6fc954ed"
+            ],
+            "uploadDate": "2025-06-10T00:00:00.000Z",
+            "fileSize": "699 MB"
+        },
+        {
+            "title": "Our Bright Days",
+            "uris": [
+                "magnet:?xt=urn:btih:016574ef9556373bbfc58627680b1433284afb11"
+            ],
+            "uploadDate": "2025-06-10T00:00:00.000Z",
+            "fileSize": "2.42 GB"
+        },
+        {
+            "title": "Apocalust",
+            "uris": [
+                "magnet:?xt=urn:btih:638551b4ef011700a3766cd44a01cf6315cba52f"
+            ],
+            "uploadDate": "2025-06-07T00:00:00.000Z",
+            "fileSize": "4.68 GB"
+        },
+        {
+            "title": "Attack on Survey Corps",
+            "uris": [
+                "magnet:?xt=urn:btih:746e727997b13335e71ce29cfcb145d25a82b4c1"
+            ],
+            "uploadDate": "2025-06-07T00:00:00.000Z",
+            "fileSize": "490 MB"
+        },
+        {
+            "title": "Lust and Power",
+            "uris": [
+                "magnet:?xt=urn:btih:172f178a4a2b90503f236db38ddc4403c8eb391f"
+            ],
+            "uploadDate": "2025-06-07T00:00:00.000Z",
+            "fileSize": "3.34 GB"
+        },
+        {
+            "title": "Symphony of the Serpent",
+            "uris": [
+                "magnet:?xt=urn:btih:50292c047af54ece97f8ab143d42f3802999ee34"
+            ],
+            "uploadDate": "2025-06-07T00:00:00.000Z",
+            "fileSize": "7.62 GB"
+        },
+        {
+            "title": "Luna Reloaded",
+            "uris": [
+                "magnet:?xt=urn:btih:0e1fc3d736c8a5a918506e39dd19746a56d6107c"
+            ],
+            "uploadDate": "2025-06-07T00:00:00.000Z",
+            "fileSize": "7.26 GB"
+        },
+        {
+            "title": "Lust Company",
+            "uris": [
+                "magnet:?xt=urn:btih:d86ec4a6fd1b7dcf66561f705e06dd69eab7f31b"
+            ],
+            "uploadDate": "2025-06-05T00:00:00.000Z",
+            "fileSize": "2.88 GB"
+        },
+        {
+            "title": "Cataclyzm",
+            "uris": [
+                "magnet:?xt=urn:btih:550b74d481735315e4f6aa12204c3d31e8a9bd26"
+            ],
+            "uploadDate": "2025-06-01T00:00:00.000Z",
+            "fileSize": "1.15 GB"
+        },
+        {
+            "title": "The Night Driver",
+            "uris": [
+                "magnet:?xt=urn:btih:95aa42ca3cfc926ca5655ca7444d721ab3d8bad6"
+            ],
+            "uploadDate": "2025-05-13T00:00:00.000Z",
+            "fileSize": "2.69 GB"
+        },
+        {
+            "title": "The Outcast Tribe",
+            "uris": [
+                "magnet:?xt=urn:btih:fd1fa64d7b821a17c9167aa8b137bb4029550a45"
+            ],
+            "uploadDate": "2025-05-12T00:00:00.000Z",
+            "fileSize": "346 MB"
+        },
+        {
+            "title": "Mind Control",
+            "uris": [
+                "magnet:?xt=urn:btih:835e3d0b371edd8f7d94f19c3b7cc2e7030f8860"
+            ],
+            "uploadDate": "2025-05-12T00:00:00.000Z",
+            "fileSize": "4.79 GB"
+        },
+        {
+            "title": "Just Married",
+            "uris": [
+                "magnet:?xt=urn:btih:693045fa0cfa2d97b25aefe539d04e78d37a3942"
+            ],
+            "uploadDate": "2025-05-12T00:00:00.000Z",
+            "fileSize": "660 MB"
+        },
+        {
+            "title": "Sweet Affection",
+            "uris": [
+                "magnet:?xt=urn:btih:17efc6573704b51c015c6339bd2ccd0c43af524a"
+            ],
+            "uploadDate": "2025-05-12T00:00:00.000Z",
+            "fileSize": "10.73 GB"
+        },
+        {
+            "title": "Bindr: Kink Dating",
+            "uris": [
+                "magnet:?xt=urn:btih:6e6ae86627c30556722f6dc4a0b0805755c06fa4"
+            ],
+            "uploadDate": "2025-05-12T00:00:00.000Z",
+            "fileSize": "4.16 GB"
+        },
+        {
+            "title": "Bondage Arena",
+            "uris": [
+                "magnet:?xt=urn:btih:478c4faf48aea2b5fab8dc184f6c84b3e9211c8d"
+            ],
+            "uploadDate": "2025-05-11T00:00:00.000Z",
+            "fileSize": "4.79 GB"
+        },
+        {
+            "title": "Dilemma of Devotion",
+            "uris": [
+                "magnet:?xt=urn:btih:a22f8ec6298aa0f686c1cf2d4f359d87becea64d"
+            ],
+            "uploadDate": "2025-05-11T00:00:00.000Z",
+            "fileSize": "1.75 GB"
+        },
+        {
+            "title": "One More Chance: First Love",
+            "uris": [
+                "magnet:?xt=urn:btih:395df395bcd6dd74c4fa6ad6b9628af80b9c7122"
+            ],
+            "uploadDate": "2025-05-11T00:00:00.000Z",
+            "fileSize": "16.32 GB"
+        },
+        {
+            "title": "The Renaissance",
+            "uris": [
+                "magnet:?xt=urn:btih:825ff70fcf6a63804ba44ac550e842da789c10d0"
+            ],
+            "uploadDate": "2025-05-11T00:00:00.000Z",
+            "fileSize": "1.50 GB"
+        },
+        {
+            "title": "SICKIMTRACK!",
+            "uris": [
+                "magnet:?xt=urn:btih:2c786a28f4016ddd965ae81cd3e4979f0e4b76fd"
+            ],
+            "uploadDate": "2025-05-11T00:00:00.000Z",
+            "fileSize": "6.59 GB"
+        },
+        {
+            "title": "Летняя Сага / Summertime Saga",
+            "uris": [
+                "magnet:?xt=urn:btih:c0f89ff2e5fccf66038efd2c3d874581ccadf8c9"
+            ],
+            "uploadDate": "2025-05-05T00:00:00.000Z",
+            "fileSize": "4.76 GB"
+        },
+        {
+            "title": "Breeders Of The Nephelym",
+            "uris": [
+                "magnet:?xt=urn:btih:3b990937379294c9616cb6ca9cf6d637a1c1fe88"
+            ],
+            "uploadDate": "2025-05-04T00:00:00.000Z",
+            "fileSize": "5.00 GB"
+        },
+        {
+            "title": "Training Space Station",
+            "uris": [
+                "magnet:?xt=urn:btih:9ddc280e18306b4826385aee076e3fc6c7c21978"
+            ],
+            "uploadDate": "2025-05-04T00:00:00.000Z",
+            "fileSize": "3.86 GB"
+        },
+        {
+            "title": "Rick And Morty - A Way Back Home",
+            "uris": [
+                "magnet:?xt=urn:btih:abed864b5c9d31c38141723fc1304c64ce8c8956"
+            ],
+            "uploadDate": "2025-05-04T00:00:00.000Z",
+            "fileSize": "1.87 GB"
+        },
+        {
+            "title": "Companion of Darkness",
+            "uris": [
+                "magnet:?xt=urn:btih:2f830c75142fed6dfb4d6b827d65651f9d0bd8a2"
+            ],
+            "uploadDate": "2025-05-04T00:00:00.000Z",
+            "fileSize": "20.05 GB"
+        },
+        {
+            "title": "The East Block",
+            "uris": [
+                "magnet:?xt=urn:btih:c83a232afce875982c5993396d4cc8550a6d9505"
+            ],
+            "uploadDate": "2025-05-04T00:00:00.000Z",
+            "fileSize": "7.70 GB"
+        },
+        {
+            "title": "Grandma's House",
+            "uris": [
+                "magnet:?xt=urn:btih:d8f1108217af42847b66d0d81aa4705d86e1b8a5"
+            ],
+            "uploadDate": "2025-05-04T00:00:00.000Z",
+            "fileSize": "49.02 GB"
+        },
+        {
+            "title": "Another Chance",
+            "uris": [
+                "magnet:?xt=urn:btih:412689fae2d0214fda9219555b1c2a0e9b0d73b8"
+            ],
+            "uploadDate": "2025-05-04T00:00:00.000Z",
+            "fileSize": "991 MB"
+        },
+        {
+            "title": "Away From Home",
+            "uris": [
+                "magnet:?xt=urn:btih:3c9c163aee9001642f9198275ecc39d28d48327a"
+            ],
+            "uploadDate": "2025-05-04T00:00:00.000Z",
+            "fileSize": "8.19 GB"
+        },
+        {
+            "title": "Lunar's Chosen",
+            "uris": [
+                "magnet:?xt=urn:btih:286b392be5941ebdb0c30ab4a94dd3eeee555f21"
+            ],
+            "uploadDate": "2025-05-03T00:00:00.000Z",
+            "fileSize": "10.31 GB"
+        },
+        {
+            "title": "Free Pass",
+            "uris": [
+                "magnet:?xt=urn:btih:76f679f2b5fa29cda25f24519a5586dab0017bba"
+            ],
+            "uploadDate": "2025-05-03T00:00:00.000Z",
+            "fileSize": "15.64 GB"
+        },
+        {
+            "title": "Between Two Worlds",
+            "uris": [
+                "magnet:?xt=urn:btih:aa6d9e55ba8a820583af269ed0539e749d06cdca"
+            ],
+            "uploadDate": "2025-05-03T00:00:00.000Z",
+            "fileSize": "9.45 GB"
+        },
+        {
+            "title": "Special Request Official Ren'Py",
+            "uris": [
+                "magnet:?xt=urn:btih:3da9f887c0a90bcf41664f2453cdc1db1fc7aa90"
+            ],
+            "uploadDate": "2025-05-02T00:00:00.000Z",
+            "fileSize": "12.76 GB"
+        },
+        {
+            "title": "New Antioch",
+            "uris": [
+                "magnet:?xt=urn:btih:c3972adbe643e580487101c9779543f1b432311f"
+            ],
+            "uploadDate": "2025-05-02T00:00:00.000Z",
+            "fileSize": "5.56 GB"
+        },
+        {
+            "title": "No Escape",
+            "uris": [
+                "magnet:?xt=urn:btih:73f712257d3fca6525b8d222b80cd5551accbbf0"
+            ],
+            "uploadDate": "2025-05-02T00:00:00.000Z",
+            "fileSize": "5.32 GB"
+        },
+        {
+            "title": "Twisting Vines",
+            "uris": [
+                "magnet:?xt=urn:btih:6984852fa2937f2a25494382a3036bb8ea860628"
+            ],
+            "uploadDate": "2025-05-02T00:00:00.000Z",
+            "fileSize": "2.76 GB"
+        },
+        {
+            "title": "Empress Game",
+            "uris": [
+                "magnet:?xt=urn:btih:3ef050354e8e64cc07c1a1de865741ad3e171cd7"
+            ],
+            "uploadDate": "2025-05-01T00:00:00.000Z",
+            "fileSize": "2.52 GB"
+        },
+        {
+            "title": "Isekai Awakening",
+            "uris": [
+                "magnet:?xt=urn:btih:d299d63b35090ea4b4d4f0b0f1eacedfe159ea2c"
+            ],
+            "uploadDate": "2025-05-01T00:00:00.000Z",
+            "fileSize": "1.35 GB"
+        },
+        {
+            "title": "Affexon",
+            "uris": [
+                "magnet:?xt=urn:btih:1d317adbe8927c4aa54131e7bb81c85ca04f66cb"
+            ],
+            "uploadDate": "2025-05-01T00:00:00.000Z",
+            "fileSize": "4.94 GB"
+        },
+        {
+            "title": "Ms.Denvers",
+            "uris": [
+                "magnet:?xt=urn:btih:c752b2a266f11a1af0c66118ed287a969f2328b9"
+            ],
+            "uploadDate": "2025-05-01T00:00:00.000Z",
+            "fileSize": "3.45 GB"
+        },
+        {
+            "title": "In For A Penny",
+            "uris": [
+                "magnet:?xt=urn:btih:cd8126f0f94f0aa69b7d17985e5cd34ba8936df6"
+            ],
+            "uploadDate": "2025-05-01T00:00:00.000Z",
+            "fileSize": "4.21 GB"
+        },
+        {
+            "title": "Uncontrollable Lust",
+            "uris": [
+                "magnet:?xt=urn:btih:0bc8ce1e0e5fabfc1b44e23f1ed8aa69f5baf279"
+            ],
+            "uploadDate": "2025-04-02T00:00:00.000Z",
+            "fileSize": "9.59 GB"
+        },
+        {
+            "title": "Witch Trainer - Silver Mod",
+            "uris": [
+                "magnet:?xt=urn:btih:e8650cdc2e676f14f35c1e67bffac5b0e2cda038"
+            ],
+            "uploadDate": "2025-04-02T00:00:00.000Z",
+            "fileSize": "1.66 GB"
+        },
+        {
+            "title": "Redemption",
+            "uris": [
+                "magnet:?xt=urn:btih:fdf37839c7cdc639807d44936aab5af442b2e5fb"
+            ],
+            "uploadDate": "2025-04-01T00:00:00.000Z",
+            "fileSize": "2.45 GB"
+        },
+        {
+            "title": "A Foreign World",
+            "uris": [
+                "magnet:?xt=urn:btih:608a6c1d7435853b1c5f5c95023a5be81c300c8b"
+            ],
+            "uploadDate": "2025-04-01T00:00:00.000Z",
+            "fileSize": "9.49 GB"
+        },
+        {
+            "title": "Imperial Chronicles",
+            "uris": [
+                "magnet:?xt=urn:btih:7c35d9d710aa2049da0d40962ae65545b55c9bdb"
+            ],
+            "uploadDate": "2025-03-25T00:00:00.000Z",
+            "fileSize": "6.26 GB"
+        },
+        {
+            "title": "Desert Stalker",
+            "uris": [
+                "magnet:?xt=urn:btih:b56fa1785f6e9c9cce11281233af463fdf932509"
+            ],
+            "uploadDate": "2025-03-23T00:00:00.000Z",
+            "fileSize": "4.33 GB"
+        },
+        {
+            "title": "Apocalypse Lovers",
+            "uris": [
+                "magnet:?xt=urn:btih:1ca82570abc0030e3b061c8471d41c6edf50fc75"
+            ],
+            "uploadDate": "2025-03-23T00:00:00.000Z",
+            "fileSize": "1.14 GB"
+        },
+        {
+            "title": "Alternate Existence",
+            "uris": [
+                "magnet:?xt=urn:btih:ce340fb40403d99f8a62c054224c7e72010657f5"
+            ],
+            "uploadDate": "2025-03-23T00:00:00.000Z",
+            "fileSize": "14.76 GB"
+        },
+        {
+            "title": "Mystic Valley",
+            "uris": [
+                "magnet:?xt=urn:btih:9d48233d63a476cf5f64f9b57501ce785d3c2452"
+            ],
+            "uploadDate": "2025-03-22T00:00:00.000Z",
+            "fileSize": "2.69 GB"
+        },
+        {
+            "title": "Celebrity Hunter",
+            "uris": [
+                "magnet:?xt=urn:btih:a900ba427405137186034bdf72a897ab2891c035"
+            ],
+            "uploadDate": "2025-03-22T00:00:00.000Z",
+            "fileSize": "7.45 GB"
+        },
+        {
+            "title": "A Foreign World",
+            "uris": [
+                "magnet:?xt=urn:btih:4fc4715e0f3a59c33a9393a42dfc173f7b0b417f"
+            ],
+            "uploadDate": "2025-03-21T00:00:00.000Z",
+            "fileSize": "2.30 GB"
+        },
+        {
+            "title": "The Hellcat Lounge",
+            "uris": [
+                "magnet:?xt=urn:btih:bd14cc26e57abc36124e022dcec139a8402780dd"
+            ],
+            "uploadDate": "2025-03-21T00:00:00.000Z",
+            "fileSize": "5.15 GB"
+        },
+        {
+            "title": "Gunpowder Cocktail",
+            "uris": [
+                "magnet:?xt=urn:btih:27441d2e3d8662b0f47f63665d9dafb714a13d22"
+            ],
+            "uploadDate": "2025-03-20T00:00:00.000Z",
+            "fileSize": "16.01 GB"
+        },
+        {
+            "title": "Campus Confidential",
+            "uris": [
+                "magnet:?xt=urn:btih:5e3e72dd4c382645e41b40d24952a88433419e91"
+            ],
+            "uploadDate": "2025-03-20T00:00:00.000Z",
+            "fileSize": "1.41 GB"
+        },
+        {
+            "title": "Living with Temptation: American Sunset",
+            "uris": [
+                "magnet:?xt=urn:btih:11fe56d55ea4161970410ddfe720fd2ebfb13660"
+            ],
+            "uploadDate": "2025-03-20T00:00:00.000Z",
+            "fileSize": "3.50 GB"
+        },
+        {
+            "title": "The Censor",
+            "uris": [
+                "magnet:?xt=urn:btih:22f406e60e2bfde89708eb31a617507840c43163"
+            ],
+            "uploadDate": "2025-03-20T00:00:00.000Z",
+            "fileSize": "1.42 GB"
+        },
+        {
+            "title": "Giant Guardians",
+            "uris": [
+                "magnet:?xt=urn:btih:810d4b0cf9910b9ff1c163625a70c50964d62874"
+            ],
+            "uploadDate": "2025-02-22T00:00:00.000Z",
+            "fileSize": "1.95 GB"
+        },
+        {
+            "title": "Word Of Mouth",
+            "uris": [
+                "magnet:?xt=urn:btih:1450bd6fc39a8448fcf45055d502f574f122b371"
+            ],
+            "uploadDate": "2025-02-21T00:00:00.000Z",
+            "fileSize": "2.80 GB"
+        },
+        {
+            "title": "16 years later!",
+            "uris": [
+                "magnet:?xt=urn:btih:8211e10db930f37e116177dc8f156d486f8974b2"
+            ],
+            "uploadDate": "2025-02-21T00:00:00.000Z",
+            "fileSize": "6.44 GB"
+        },
+        {
+            "title": "Red Brim",
+            "uris": [
+                "magnet:?xt=urn:btih:d5413e565304bf82b9b185b850226351bced0774"
+            ],
+            "uploadDate": "2025-02-20T00:00:00.000Z",
+            "fileSize": "970 MB"
+        },
+        {
+            "title": "Fog Of War",
+            "uris": [
+                "magnet:?xt=urn:btih:222465af8b61ce9b23473e503ec3c8e29383de87"
+            ],
+            "uploadDate": "2025-02-20T00:00:00.000Z",
+            "fileSize": "25.14 GB"
+        },
+        {
+            "title": "Henry's Adventures",
+            "uris": [
+                "magnet:?xt=urn:btih:d5906a0e522df8a79e6b681c153e0932515cc784"
+            ],
+            "uploadDate": "2025-02-20T00:00:00.000Z",
+            "fileSize": "2.80 GB"
+        },
+        {
+            "title": "Camp Mourning Wood",
+            "uris": [
+                "magnet:?xt=urn:btih:966ad7915a1a6b0eff5865886727f31c66bc97fd"
+            ],
+            "uploadDate": "2025-02-20T00:00:00.000Z",
+            "fileSize": "1.57 GB"
+        },
+        {
+            "title": "Strong Desire",
+            "uris": [
+                "magnet:?xt=urn:btih:ad6ef48bc72aba148e3839623083b0e3ef413538"
+            ],
+            "uploadDate": "2025-02-18T00:00:00.000Z",
+            "fileSize": "8.17 GB"
+        },
+        {
+            "title": "Corruption Town",
+            "uris": [
+                "magnet:?xt=urn:btih:dc60ac37d71c812c8f2334cb760724f9c44690f0"
+            ],
+            "uploadDate": "2025-02-18T00:00:00.000Z",
+            "fileSize": "4.41 GB"
+        },
+        {
+            "title": "Cложные Времена / Straitened Times",
+            "uris": [
+                "magnet:?xt=urn:btih:1f42ae951f28d8a4a87f42a91d8e6a043ecba91e"
+            ],
+            "uploadDate": "2025-02-18T00:00:00.000Z",
+            "fileSize": "7.08 GB"
+        },
+        {
+            "title": "Keira Quest",
+            "uris": [
+                "magnet:?xt=urn:btih:f99a0b9b81b9e269194979a20fe6ef31e3ad6795"
+            ],
+            "uploadDate": "2025-02-18T00:00:00.000Z",
+            "fileSize": "623 MB"
+        },
+        {
+            "title": "Lockdown 2024",
+            "uris": [
+                "magnet:?xt=urn:btih:f1ee629455864f4f6bb376883a15258b6300092e"
+            ],
+            "uploadDate": "2025-02-17T00:00:00.000Z",
+            "fileSize": "11.13 GB"
+        },
+        {
+            "title": "Warlock and Boobs",
+            "uris": [
+                "magnet:?xt=urn:btih:a258d182589cb3f47df7595146aa631b6cc0e05d"
+            ],
+            "uploadDate": "2025-02-17T00:00:00.000Z",
+            "fileSize": "1.44 GB"
+        },
+        {
+            "title": "Sexbot",
+            "uris": [
+                "magnet:?xt=urn:btih:47fcc28422c068ad1349eae69f6e537e7a11d22d"
+            ],
+            "uploadDate": "2025-02-17T00:00:00.000Z",
+            "fileSize": "8.20 GB"
+        },
+        {
+            "title": "Magic Academy",
+            "uris": [
+                "magnet:?xt=urn:btih:831cf11ab33edfc42c61c8871aa01d19ab5edd8c"
+            ],
+            "uploadDate": "2025-02-17T00:00:00.000Z",
+            "fileSize": "585 MB"
+        },
+        {
+            "title": "Over the Moon",
+            "uris": [
+                "magnet:?xt=urn:btih:27defdc5fc169a9fb04c98c3ea9ddc7d8513d291"
+            ],
+            "uploadDate": "2025-02-16T00:00:00.000Z",
+            "fileSize": "1.60 GB"
+        },
+        {
+            "title": "Divine Heel",
+            "uris": [
+                "magnet:?xt=urn:btih:002964ec397039d5c1f32f816c79f7d39768cac6"
+            ],
+            "uploadDate": "2025-02-16T00:00:00.000Z",
+            "fileSize": "603 MB"
+        },
+        {
+            "title": "Blood Crawler",
+            "uris": [
+                "magnet:?xt=urn:btih:dc160c9491c66738902c3d579a0036b466a6f5ee"
+            ],
+            "uploadDate": "2025-02-16T00:00:00.000Z",
+            "fileSize": "2.64 GB"
+        },
+        {
+            "title": "Confessions of a Sassy Girl",
+            "uris": [
+                "magnet:?xt=urn:btih:2fcf1cbb6b4dd97e434e8e29d286c563415daf4a"
+            ],
+            "uploadDate": "2025-02-16T00:00:00.000Z",
+            "fileSize": "1.60 GB"
+        },
+        {
+            "title": "Life's Payback",
+            "uris": [
+                "magnet:?xt=urn:btih:b6c73b0e27816cbe8f61813a228c2630a8a4affc"
+            ],
+            "uploadDate": "2025-02-15T00:00:00.000Z",
+            "fileSize": "11.50 GB"
+        },
+        {
+            "title": "Between Humanity",
+            "uris": [
+                "magnet:?xt=urn:btih:f843d4cf0162ca011a203d76d2a35cb1b7eb5e67"
+            ],
+            "uploadDate": "2025-02-15T00:00:00.000Z",
+            "fileSize": "2.20 GB"
+        },
+        {
+            "title": "Sex Desert: Mad Lust",
+            "uris": [
+                "magnet:?xt=urn:btih:8536c71c8009793a5793a0e2d85076299d4fc2d1"
+            ],
+            "uploadDate": "2025-02-15T00:00:00.000Z",
+            "fileSize": "5.14 GB"
+        },
+        {
+            "title": "Mythos: Book One",
+            "uris": [
+                "magnet:?xt=urn:btih:e06ca7872d7574712eed7520efe9f46ae26f2ffa"
+            ],
+            "uploadDate": "2025-02-15T00:00:00.000Z",
+            "fileSize": "3.98 GB"
+        },
+        {
+            "title": "B.E.S.T The Game",
+            "uris": [
+                "magnet:?xt=urn:btih:60220d05ca3acb5ae8384515d3c2fef581c7aa58"
+            ],
+            "uploadDate": "2025-02-15T00:00:00.000Z",
+            "fileSize": "7.22 GB"
+        },
+        {
+            "title": "Vulgar Reverie",
+            "uris": [
+                "magnet:?xt=urn:btih:888ee343013dbe014cf9eb37f52bbdf34a6db123"
+            ],
+            "uploadDate": "2025-02-15T00:00:00.000Z",
+            "fileSize": "1.74 GB"
+        },
+        {
+            "title": "Anita's Internship",
+            "uris": [
+                "magnet:?xt=urn:btih:db9c8ba16da481a2ca6748e9f93dd1e4594c1780"
+            ],
+            "uploadDate": "2025-02-07T00:00:00.000Z",
+            "fileSize": "4.94 GB"
+        },
+        {
+            "title": "Home Together",
+            "uris": [
+                "magnet:?xt=urn:btih:2a024ecc71279da3388380ee5ba0eb1ad4c3ac3d"
+            ],
+            "uploadDate": "2025-02-07T00:00:00.000Z",
+            "fileSize": "8.69 GB"
+        },
+        {
+            "title": "The Way Love Goes",
+            "uris": [
+                "magnet:?xt=urn:btih:513f35b4ecb85a905ca8320a81a069166fa8d747"
+            ],
+            "uploadDate": "2025-02-07T00:00:00.000Z",
+            "fileSize": "4.32 GB"
+        },
+        {
+            "title": "Lessons in Love",
+            "uris": [
+                "magnet:?xt=urn:btih:954d83f963faae3dfc17a0cdb39938b857d2c836"
+            ],
+            "uploadDate": "2025-02-04T00:00:00.000Z",
+            "fileSize": "12.86 GB"
+        },
+        {
+            "title": "The Tyrant",
+            "uris": [
+                "magnet:?xt=urn:btih:54753a4d710eeaaf1cf678307e99e4a9a0782b13"
+            ],
+            "uploadDate": "2025-02-04T00:00:00.000Z",
+            "fileSize": "6.83 GB"
+        },
+        {
+            "title": "Midnight Sin",
+            "uris": [
+                "magnet:?xt=urn:btih:64561f5325a836df8c83436f9fbe346e306df651"
+            ],
+            "uploadDate": "2025-02-04T00:00:00.000Z",
+            "fileSize": "3.93 GB"
+        },
+        {
+            "title": "Gacha Cummy",
+            "uris": [
+                "magnet:?xt=urn:btih:5a0d21436c79aa88826dbdeb1901ae6d6b89cded"
+            ],
+            "uploadDate": "2025-02-04T00:00:00.000Z",
+            "fileSize": "634 MB"
+        },
+        {
+            "title": "Fate and Life: The Mystery of Vaulinhorn",
+            "uris": [
+                "magnet:?xt=urn:btih:c418f3cf470fbb240651c2273f17451e6c7c3d15"
+            ],
+            "uploadDate": "2025-02-03T00:00:00.000Z",
+            "fileSize": "15.31 GB"
+        },
+        {
+            "title": "FurrHouse",
+            "uris": [
+                "magnet:?xt=urn:btih:fc8630783f926ea8a22fb9453a8b80a0f3ed0071"
+            ],
+            "uploadDate": "2025-02-03T00:00:00.000Z",
+            "fileSize": "7.53 GB"
+        },
+        {
+            "title": "Horton Bay Stories - Jake",
+            "uris": [
+                "magnet:?xt=urn:btih:c8c6f053f57dceb362b831f66eda51a925838c9d"
+            ],
+            "uploadDate": "2025-02-03T00:00:00.000Z",
+            "fileSize": "27.06 GB"
+        },
+        {
+            "title": "Wet Sand",
+            "uris": [
+                "magnet:?xt=urn:btih:789d4ba396fb0329e06d98afdff3f031270b25e5"
+            ],
+            "uploadDate": "2025-02-02T00:00:00.000Z",
+            "fileSize": "1.78 GB"
+        },
+        {
+            "title": "EraStorm",
+            "uris": [
+                "magnet:?xt=urn:btih:ed868a81cfbab7d7689b9d51b9e12f8d5add4ca1"
+            ],
+            "uploadDate": "2025-02-02T00:00:00.000Z",
+            "fileSize": "22.40 GB"
+        },
+        {
+            "title": "Naughty Lyanna",
+            "uris": [
+                "magnet:?xt=urn:btih:91e24830a2eb692b87b384493466bf760f916616"
+            ],
+            "uploadDate": "2025-02-02T00:00:00.000Z",
+            "fileSize": "14.02 GB"
+        },
+        {
+            "title": "In Her Service",
+            "uris": [
+                "magnet:?xt=urn:btih:cbbac17179f0a3ecf779cfb55748728f4f554498"
+            ],
+            "uploadDate": "2025-02-02T00:00:00.000Z",
+            "fileSize": "2.82 GB"
+        },
+        {
+            "title": "Unseen Instincts",
+            "uris": [
+                "magnet:?xt=urn:btih:f8c7f14f88ffae7a39362da42c53964e9a0327c2"
+            ],
+            "uploadDate": "2025-02-02T00:00:00.000Z",
+            "fileSize": "3.60 GB"
+        },
+        {
+            "title": "Slave Lord - Realms of Bondage",
+            "uris": [
+                "magnet:?xt=urn:btih:dbcbda0d34025d67b4c39eca9cb999364ff4da99"
+            ],
+            "uploadDate": "2025-02-01T00:00:00.000Z",
+            "fileSize": "1.45 GB"
+        },
+        {
+            "title": "Coming Of Age",
+            "uris": [
+                "magnet:?xt=urn:btih:160781d41740608fef63d705201f95afc010b674"
+            ],
+            "uploadDate": "2025-02-01T00:00:00.000Z",
+            "fileSize": "6.56 GB"
+        },
+        {
+            "title": "Westview Academy",
+            "uris": [
+                "magnet:?xt=urn:btih:15872951766d750fbad9bce9c16d973e12f9f70e"
+            ],
+            "uploadDate": "2025-02-01T00:00:00.000Z",
+            "fileSize": "11.41 GB"
+        },
+        {
+            "title": "Naughty Neighbours",
+            "uris": [
+                "magnet:?xt=urn:btih:d8100707cfc467efb1e7da75425a92a1f3211b55"
+            ],
+            "uploadDate": "2025-02-01T00:00:00.000Z",
+            "fileSize": "4.45 GB"
+        }
+    ]
 }
